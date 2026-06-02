@@ -2,9 +2,7 @@
 
 A sleek, interactive web-based configuration wizard for [copyparty](https://github.com/9001/copyparty) — a self-hosted file server written in Python.
 
-**Live:** [https://YOUR-USERNAME.github.io/copyparty-wizard](https://YOUR-USERNAME.github.io/copyparty-wizard)
-
-> Replace `YOUR-USERNAME` with your actual GitHub username after deploying.
+**Live:** [https://n0access.github.io/copyparty-wizard](https://n0access.github.io/copyparty-wizard)
 
 ---
 
