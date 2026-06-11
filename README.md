@@ -2,7 +2,7 @@
 
 A sleek, interactive web-based configuration wizard for [copyparty](https://github.com/9001/copyparty) — a self-hosted file server written in Python.
 
-**Live:** [https://n0access.github.io/copyparty-wizard](https://n0access.github.io/copyparty-wizard)
+**Live:** [https://n0access.github.io/copyparty-wizard](https://n0acc3ss.github.io/copyparty-wizard)
 
 ---
 
